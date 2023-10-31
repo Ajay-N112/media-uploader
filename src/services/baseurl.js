@@ -1,0 +1,1 @@
+export const baseurl='https://backend-mbjh.onrender.com'
